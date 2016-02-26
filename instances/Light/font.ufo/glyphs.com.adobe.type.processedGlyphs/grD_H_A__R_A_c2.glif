@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grDHA_RAc2" format="2">
+  <advance width="395"/>
+  <outline>
+    <contour>
+      <point x="166" y="127" type="curve" smooth="yes"/>
+      <point x="132" y="127"/>
+      <point x="89" y="136"/>
+      <point x="73" y="167" type="curve"/>
+      <point x="109" y="216"/>
+      <point x="131" y="261"/>
+      <point x="131" y="312" type="curve" smooth="yes"/>
+      <point x="131" y="349"/>
+      <point x="122" y="378"/>
+      <point x="104" y="409" type="curve"/>
+      <point x="301" y="409" type="line"/>
+      <point x="301" y="169" type="line"/>
+      <point x="246" y="136"/>
+      <point x="207" y="127"/>
+    </contour>
+    <contour>
+      <point x="424" y="409" type="line"/>
+      <point x="424" y="441" type="line"/>
+      <point x="-29" y="441" type="line"/>
+      <point x="-29" y="409" type="line"/>
+      <point x="74" y="409" type="line"/>
+      <point x="90" y="382"/>
+      <point x="94" y="353"/>
+      <point x="94" y="321" type="curve" smooth="yes"/>
+      <point x="94" y="282"/>
+      <point x="80" y="248"/>
+      <point x="44" y="195" type="curve" smooth="yes"/>
+      <point x="35" y="181"/>
+      <point x="34" y="177"/>
+      <point x="34" y="171" type="curve" smooth="yes"/>
+      <point x="34" y="142"/>
+      <point x="97" y="95"/>
+      <point x="169" y="95" type="curve" smooth="yes"/>
+      <point x="215" y="95"/>
+      <point x="254" y="104"/>
+      <point x="301" y="129" type="curve"/>
+      <point x="304" y="127" type="line"/>
+      <point x="301" y="65" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="340" y="409" type="line"/>
+    </contour>
+    <contour>
+      <point x="445" y="-233" type="line"/>
+      <point x="401" y="-174"/>
+      <point x="374" y="-144"/>
+      <point x="331" y="-117" type="curve"/>
+      <point x="337" y="-104"/>
+      <point x="340" y="-87"/>
+      <point x="340" y="-66" type="curve" smooth="yes"/>
+      <point x="340" y="-60"/>
+      <point x="340" y="-54"/>
+      <point x="339" y="-47" type="curve"/>
+      <point x="303" y="-47" type="line"/>
+      <point x="302" y="-113" type="line"/>
+      <point x="279" y="-125"/>
+      <point x="259" y="-135"/>
+      <point x="245" y="-148" type="curve"/>
+      <point x="247" y="-157"/>
+      <point x="253" y="-163"/>
+      <point x="260" y="-169" type="curve"/>
+      <point x="285" y="-160"/>
+      <point x="303" y="-151"/>
+      <point x="315" y="-139" type="curve"/>
+      <point x="434" y="-244" type="line"/>
+    </contour>
+  </outline>
+</glyph>

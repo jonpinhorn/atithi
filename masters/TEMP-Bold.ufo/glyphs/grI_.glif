@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grI" format="1">
+  <advance width="618"/>
+  <unicode hex="0A07"/>
+  <outline>
+    <component base="grIri" xOffset="196"/>
+    <component base="grmI"/>
+    <contour>
+      <point x="520" y="447" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>grIri</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>grmI</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>grIri</string>
+    </dict>
+  </lib>
+</glyph>

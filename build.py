@@ -1,12 +1,12 @@
 #! /usr/bin/env python
 
 import hindkit as kit
-kit.confirm_version('0.3.0')
+kit.confirm_version('0.3.2')
 
 # - - -
 
 family = kit.Family(
-    trademark = 'Hind Jalandhar',
+    trademark = 'Atithi',
     script = 'Gurmukhi',
     hide_script_name = True,
 )
@@ -20,7 +20,16 @@ family.set_masters(
     ],
 )
 
-family.set_styles()
+ATITHI_6 = [
+	('ExtraLight',	0, 200),
+	('Light',		20, 300),
+	('Regular',		40, 400),
+	('Medium',		60, 500),
+	('SemiBold',	80, 600),
+	('Bold',		100, 700),
+]
+
+family.set_styles(style_scheme=ATITHI_6) 
 
 # - - -
 

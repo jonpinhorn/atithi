@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dbldanda" format="1">
+  <advance width="405"/>
+  <unicode hex="0965"/>
+  <outline>
+    <component base="danda"/>
+    <component base="danda" xOffset="158"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>danda</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>danda</string>
+    </dict>
+  </lib>
+</glyph>

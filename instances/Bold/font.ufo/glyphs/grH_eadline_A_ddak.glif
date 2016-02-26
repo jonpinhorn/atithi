@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grHeadline_Addak" format="1">
+  <advance width="73"/>
+  <outline>
+    <component base="grHeadline"/>
+    <component base="grAddak" xOffset="117"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

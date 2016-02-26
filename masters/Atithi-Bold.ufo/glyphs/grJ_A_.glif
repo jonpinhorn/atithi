@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grJA" format="1">
+  <advance width="422"/>
+  <unicode hex="0A1C"/>
+  <outline>
+    <contour>
+      <point x="178" y="0" type="line"/>
+      <point x="178" y="189" type="line"/>
+      <point x="270" y="189" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="378" y="363" type="line"/>
+      <point x="451" y="363" type="line"/>
+      <point x="451" y="447" type="line"/>
+      <point x="-29" y="447" type="line"/>
+      <point x="-29" y="363" type="line"/>
+      <point x="270" y="363" type="line"/>
+      <point x="270" y="272" type="line"/>
+      <point x="154" y="272" type="line"/>
+      <point x="80" y="319" type="line"/>
+      <point x="49" y="319"/>
+      <point x="23" y="295"/>
+      <point x="12" y="259" type="curve"/>
+      <point x="20" y="223"/>
+      <point x="43" y="198"/>
+      <point x="69" y="183" type="curve"/>
+      <point x="69" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grII" format="1">
+  <advance width="596"/>
+  <unicode hex="0A08"/>
+  <outline>
+    <component base="grIri"/>
+    <component base="grmII" xOffset="412"/>
+    <contour>
+      <point x="684" y="445" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>grmII</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>grIri</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>grmII</string>
+    </dict>
+  </lib>
+</glyph>

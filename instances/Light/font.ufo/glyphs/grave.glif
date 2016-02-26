@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="420"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="308" y="643" type="line"/>
+      <point x="209" y="798" type="line"/>
+      <point x="115" y="798" type="line"/>
+      <point x="239" y="643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

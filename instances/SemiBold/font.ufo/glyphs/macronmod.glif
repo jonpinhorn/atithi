@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronmod" format="1">
+  <advance width="480"/>
+  <unicode hex="02C9"/>
+  <outline>
+    <contour>
+      <point x="409" y="662" type="line"/>
+      <point x="409" y="750" type="line"/>
+      <point x="71" y="750" type="line"/>
+      <point x="71" y="662" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

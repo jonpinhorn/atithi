@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grSxA" format="1">
+  <advance width="399"/>
+  <unicode hex="0A36"/>
+  <outline>
+    <contour>
+      <point x="110" y="251" type="curve" smooth="yes"/>
+      <point x="110" y="334"/>
+      <point x="85" y="439"/>
+      <point x="24" y="439" type="curve" smooth="yes"/>
+      <point x="-29" y="439" type="line"/>
+      <point x="-29" y="421" type="line"/>
+      <point x="49" y="421" type="line"/>
+      <point x="80" y="387"/>
+      <point x="91" y="296"/>
+      <point x="91" y="194" type="curve"/>
+      <point x="59" y="121"/>
+      <point x="55" y="103"/>
+      <point x="55" y="89" type="curve" smooth="yes"/>
+      <point x="55" y="80"/>
+      <point x="63" y="75"/>
+      <point x="73" y="75" type="curve"/>
+      <point x="94" y="120"/>
+      <point x="110" y="194"/>
+    </contour>
+    <contour>
+      <point x="217" y="13" type="curve" smooth="yes"/>
+      <point x="217" y="25"/>
+      <point x="207" y="34"/>
+      <point x="196" y="34" type="curve" smooth="yes"/>
+      <point x="185" y="34"/>
+      <point x="175" y="25"/>
+      <point x="175" y="13" type="curve" smooth="yes"/>
+      <point x="175" y="1"/>
+      <point x="184" y="-8"/>
+      <point x="196" y="-8" type="curve" smooth="yes"/>
+      <point x="207" y="-8"/>
+      <point x="217" y="1"/>
+    </contour>
+    <contour>
+      <point x="329" y="223" type="line"/>
+      <point x="291" y="231"/>
+      <point x="257" y="235"/>
+      <point x="228" y="235" type="curve" smooth="yes"/>
+      <point x="177" y="235"/>
+      <point x="136" y="223"/>
+      <point x="96" y="201" type="curve"/>
+      <point x="96" y="189" type="line"/>
+      <point x="131" y="210"/>
+      <point x="171" y="218"/>
+      <point x="213" y="218" type="curve" smooth="yes"/>
+      <point x="250" y="218"/>
+      <point x="290" y="211"/>
+      <point x="329" y="201" type="curve"/>
+    </contour>
+    <contour>
+      <point x="341" y="0" type="line"/>
+      <point x="341" y="421" type="line"/>
+      <point x="428" y="421" type="line"/>
+      <point x="428" y="439" type="line"/>
+      <point x="320" y="439" type="line"/>
+      <point x="320" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>grMA</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>grSxA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>399</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

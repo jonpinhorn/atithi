@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.superior" format="1">
+  <advance width="272"/>
+  <outline>
+    <contour>
+      <point x="216" y="392" type="line"/>
+      <point x="216" y="824" type="line"/>
+      <point x="140" y="824" type="line"/>
+      <point x="10" y="751" type="line"/>
+      <point x="10" y="661" type="line"/>
+      <point x="124" y="722" type="line"/>
+      <point x="124" y="392" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

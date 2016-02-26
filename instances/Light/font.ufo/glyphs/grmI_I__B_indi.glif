@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grmII_Bindi" format="1">
+  <advance width="193"/>
+  <outline>
+    <component base="grmII"/>
+    <component base="grBindi" xOffset="248"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>grmII</string>
+    </dict>
+  </lib>
+</glyph>

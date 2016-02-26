@@ -1,0 +1,24 @@
+# Created: Fri Feb 26 17:54:50 2016
+# PS Name: Atithi-ExtraLight
+# MM Inst: None
+# exported from noApp
+
+@mGC_bottom_n186_0 = [grmUU grmUU.alt grmU.alt];
+@mGC_bottom_n69_0 = [grVirama grUdaat grYakash grVAc2 grHAc2];
+@mGC_top_n65_439 = [grmOO grmOO_Bindi];
+@mGC_top_n66_439 = [grmEE grmEE_Bindi];
+@mGC_top_n67_439 = [grmAU grBindi];
+@mGC_top_n68_439 = [grTippi grAddak grAdakbindi];
+@mGC_top_n70_439 = [grmAI grmAI_Bindi];
+
+markClass @mGC_bottom_n186_0 <anchor -186 0> @MC_bottom;
+markClass @mGC_bottom_n69_0 <anchor -69 0> @MC_bottom;
+markClass @mGC_top_n65_439 <anchor -65 439> @MC_top;
+markClass @mGC_top_n66_439 <anchor -66 439> @MC_top;
+markClass @mGC_top_n67_439 <anchor -67 439> @MC_top;
+markClass @mGC_top_n68_439 <anchor -68 439> @MC_top;
+markClass @mGC_top_n70_439 <anchor -70 439> @MC_top;
+markClass grNukta <anchor -202 0> @MC_bottom;
+markClass grmAU_Bindi <anchor -69 439> @MC_top;
+markClass grmU <anchor -181 0> @MC_bottom;
+

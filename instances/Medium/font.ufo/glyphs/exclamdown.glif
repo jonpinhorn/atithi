@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="187"/>
+  <unicode hex="00A1"/>
+  <note>
+    exclamdown
+  </note>
+  <outline>
+    <contour>
+      <point x="132" y="-2" type="line"/>
+      <point x="132" y="143" type="line"/>
+      <point x="127" y="322" type="line"/>
+      <point x="61" y="322" type="line"/>
+      <point x="56" y="142" type="line"/>
+      <point x="56" y="-2" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="371" type="line"/>
+      <point x="133" y="445" type="line"/>
+      <point x="55" y="445" type="line"/>
+      <point x="55" y="371" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

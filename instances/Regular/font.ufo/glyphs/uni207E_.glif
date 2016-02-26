@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni207E" format="1">
+  <advance width="178"/>
+  <unicode hex="207E"/>
+  <note>
+    uni207E
+  </note>
+  <outline>
+    <contour>
+      <point x="130" y="252" type="curve"/>
+      <point x="130" y="508" type="line"/>
+      <point x="126" y="520"/>
+      <point x="96" y="536"/>
+      <point x="80" y="541" type="curve"/>
+      <point x="70" y="541"/>
+      <point x="60" y="540"/>
+      <point x="51" y="539" type="curve"/>
+      <point x="51" y="500" type="line"/>
+      <point x="83" y="500" type="line"/>
+      <point x="83" y="260" type="line"/>
+      <point x="51" y="260" type="line"/>
+      <point x="51" y="221" type="line"/>
+      <point x="60" y="220"/>
+      <point x="70" y="219"/>
+      <point x="80" y="219" type="curve"/>
+      <point x="96" y="224"/>
+      <point x="126" y="240"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

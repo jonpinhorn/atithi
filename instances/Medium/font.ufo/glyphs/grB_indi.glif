@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grBindi" format="1">
+  <unicode hex="0A02"/>
+  <outline>
+    <contour>
+      <point x="-42" y="533" type="curve" smooth="yes"/>
+      <point x="-42" y="555"/>
+      <point x="-62" y="574"/>
+      <point x="-84" y="574" type="curve" smooth="yes"/>
+      <point x="-105" y="574"/>
+      <point x="-126" y="555"/>
+      <point x="-126" y="533" type="curve" smooth="yes"/>
+      <point x="-126" y="510"/>
+      <point x="-107" y="491"/>
+      <point x="-84" y="491" type="curve" smooth="yes"/>
+      <point x="-62" y="491"/>
+      <point x="-42" y="510"/>
+    </contour>
+    <contour>
+      <point x="-84" y="444" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

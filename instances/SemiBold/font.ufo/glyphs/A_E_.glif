@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="925"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="154" y="0" type="line"/>
+      <point x="303" y="286" type="line" smooth="yes"/>
+      <point x="406" y="480"/>
+      <point x="474" y="622"/>
+      <point x="487" y="674" type="curve"/>
+      <point x="351" y="674" type="line"/>
+      <point x="12" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="148" type="line"/>
+      <point x="520" y="258" type="line"/>
+      <point x="208" y="258" type="line"/>
+      <point x="208" y="148" type="line"/>
+    </contour>
+    <contour>
+      <point x="868" y="0" type="line"/>
+      <point x="868" y="110" type="line"/>
+      <point x="507" y="110" type="line"/>
+      <point x="507" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="0" type="line"/>
+      <point x="596" y="674" type="line"/>
+      <point x="464" y="674" type="line"/>
+      <point x="464" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="834" y="282" type="line"/>
+      <point x="834" y="391" type="line"/>
+      <point x="507" y="391" type="line"/>
+      <point x="507" y="282" type="line"/>
+    </contour>
+    <contour>
+      <point x="863" y="564" type="line"/>
+      <point x="863" y="674" type="line"/>
+      <point x="507" y="674" type="line"/>
+      <point x="507" y="564" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

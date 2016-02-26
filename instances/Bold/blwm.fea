@@ -1,0 +1,29 @@
+# Created: Fri Feb 26 17:54:53 2016
+# PS Name: Atithi-Bold
+# MM Inst: None
+# exported from noApp
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_bottom {
+	@bGC_grCHA_bottom = [grCHA grTTHA grNA];
+	@bGC_grKA_bottom = [grKA grNGA grNYA grDA grPHA grBHA grVA];
+	@bGC_grLA_bottom = [grLA grLxA];
+	pos base @bGC_grCHA_bottom <anchor 239 0> mark @MC_bottom;
+	pos base @bGC_grKA_bottom <anchor 232 0> mark @MC_bottom;
+	pos base @bGC_grLA_bottom <anchor 237 0> mark @MC_bottom;
+	pos base grCA <anchor 260 0> mark @MC_bottom;
+	pos base grDDA <anchor 242 0> mark @MC_bottom;
+	pos base grDDHA <anchor 254 0> mark @MC_bottom;
+	pos base grHA <anchor 214 0> mark @MC_bottom;
+	pos base grJHA <anchor 236 0> mark @MC_bottom;
+	pos base grNNA <anchor 238 0> mark @MC_bottom;
+	pos base grPHxA <anchor 290 0> mark @MC_bottom;
+	pos base grRA <anchor 200 0> mark @MC_bottom;
+	pos base grRRA <anchor 244 0> mark @MC_bottom;
+	pos base grTA <anchor 247 0> mark @MC_bottom;
+	pos base grTTA <anchor 225 0> mark @MC_bottom;
+	pos base grUra <anchor 253 0> mark @MC_bottom;
+} MARK_BASE_bottom;
+
+

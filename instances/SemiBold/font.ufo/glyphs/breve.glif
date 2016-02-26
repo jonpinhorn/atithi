@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="1">
+  <advance width="480"/>
+  <unicode hex="02D8"/>
+  <outline>
+    <contour>
+      <point x="429" y="798" type="curve"/>
+      <point x="329" y="798" type="line"/>
+      <point x="329" y="741"/>
+      <point x="296" y="706"/>
+      <point x="240" y="706" type="curve" smooth="yes"/>
+      <point x="184" y="706"/>
+      <point x="151" y="741"/>
+      <point x="151" y="798" type="curve"/>
+      <point x="51" y="798" type="line"/>
+      <point x="51" y="677"/>
+      <point x="129" y="623"/>
+      <point x="240" y="623" type="curve"/>
+      <point x="351" y="623"/>
+      <point x="429" y="677"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

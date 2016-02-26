@@ -1,0 +1,34 @@
+# [PostScriptName]
+#   f = Preferred Family Name
+#   s = Subfamily/Style Name
+#   l = Compatible Family Menu Name (Style-Linking Family Name)
+#   m = 1, Macintosh Compatible Full Name (Deprecated)
+
+[Atithi-ExtraLight]
+  f = Atithi
+  s = ExtraLight
+  l = Atithi ExtraLight
+
+[Atithi-Light]
+  f = Atithi
+  s = Light
+  l = Atithi Light
+
+[Atithi-Regular]
+  f = Atithi
+  s = Regular
+
+[Atithi-Medium]
+  f = Atithi
+  s = Medium
+  l = Atithi Medium
+
+[Atithi-SemiBold]
+  f = Atithi
+  s = SemiBold
+  l = Atithi SemiBold
+
+[Atithi-Bold]
+  f = Atithi
+  s = Bold
+  # IsBoldStyle

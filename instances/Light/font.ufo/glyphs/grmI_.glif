@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grmI" format="1">
+  <advance width="150"/>
+  <unicode hex="0A3F"/>
+  <outline>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="94" y="409" type="line"/>
+      <point x="179" y="409" type="line"/>
+      <point x="179" y="441" type="line"/>
+      <point x="-29" y="441" type="line"/>
+      <point x="-29" y="409" type="line"/>
+      <point x="55" y="409" type="line"/>
+      <point x="55" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="435" type="line"/>
+      <point x="68" y="459"/>
+      <point x="56" y="484"/>
+      <point x="56" y="519" type="curve" smooth="yes"/>
+      <point x="56" y="564"/>
+      <point x="83" y="594"/>
+      <point x="129" y="594" type="curve" smooth="yes"/>
+      <point x="176" y="594"/>
+      <point x="214" y="572"/>
+      <point x="299" y="493" type="curve"/>
+      <point x="316" y="506" type="line"/>
+      <point x="227" y="594"/>
+      <point x="179" y="627"/>
+      <point x="119" y="627" type="curve" smooth="yes"/>
+      <point x="58" y="627"/>
+      <point x="16" y="589"/>
+      <point x="16" y="528" type="curve" smooth="yes"/>
+      <point x="16" y="491"/>
+      <point x="36" y="454"/>
+      <point x="63" y="431" type="curve"/>
+    </contour>
+    <contour>
+      <point x="410" y="441" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

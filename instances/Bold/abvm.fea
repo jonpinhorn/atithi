@@ -1,0 +1,42 @@
+# Created: Fri Feb 26 17:54:53 2016
+# PS Name: Atithi-Bold
+# MM Inst: None
+# exported from noApp
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_top {
+	@bGC_grCHA_top = [grCHA grDDA];
+	@bGC_grDA_top = [grDA grVA];
+	@bGC_grDDHA_top = [grDDHA grRRA];
+	@bGC_grLA_top = [grLA grLxA];
+	@bGC_grPHA_top = [grPHA grRA grHA];
+	pos base @bGC_grCHA_top <anchor 349 447> mark @MC_top;
+	pos base @bGC_grDA_top <anchor 310 447> mark @MC_top;
+	pos base @bGC_grDDHA_top <anchor 328 447> mark @MC_top;
+	pos base @bGC_grLA_top <anchor 363 447> mark @MC_top;
+	pos base @bGC_grPHA_top <anchor 291 447> mark @MC_top;
+	pos base grA <anchor 469 447> mark @MC_top;
+	pos base grAA <anchor 563 447> mark @MC_top;
+	pos base grAI <anchor 622 447> mark @MC_top;
+	pos base grBHA <anchor 321 447> mark @MC_top;
+	pos base grCA <anchor 339 447> mark @MC_top;
+	pos base grEE <anchor 457 447> mark @MC_top;
+	pos base grI <anchor 520 447> mark @MC_top;
+	pos base grII <anchor 714 447> mark @MC_top;
+	pos base grIri <anchor 324 447> mark @MC_top;
+	pos base grJHA <anchor 362 447> mark @MC_top;
+	pos base grKA <anchor 331 447> mark @MC_top;
+	pos base grNA <anchor 336 447> mark @MC_top;
+	pos base grNGA <anchor 304 447> mark @MC_top;
+	pos base grNNA <anchor 303 447> mark @MC_top;
+	pos base grNYA <anchor 317 447> mark @MC_top;
+	pos base grPHxA <anchor 354 447> mark @MC_top;
+	pos base grTA <anchor 350 447> mark @MC_top;
+	pos base grTTA <anchor 302 447> mark @MC_top;
+	pos base grTTHA <anchor 338 447> mark @MC_top;
+	pos base grmAA <anchor 98 447> mark @MC_top;
+	pos base grmI <anchor 410 447> mark @MC_top;
+} MARK_BASE_top;
+
+

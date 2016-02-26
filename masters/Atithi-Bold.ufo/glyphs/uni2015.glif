@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2015" format="1">
+  <advance width="653"/>
+  <unicode hex="2015"/>
+  <note>
+	uni2015
+  </note>
+  <outline>
+    <contour>
+      <point x="624" y="123" type="line"/>
+      <point x="624" y="223" type="line"/>
+      <point x="29" y="223" type="line"/>
+      <point x="29" y="123" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

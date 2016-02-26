@@ -1,0 +1,22 @@
+# Created: Fri Feb 26 17:54:51 2016
+# PS Name: Atithi-Regular
+# MM Inst: None
+# exported from noApp
+
+@mGC_bottom_n186_0 = [grmUU.alt grmU.alt];
+@mGC_bottom_n79_0 = [grVirama grUdaat grYakash grVAc2 grHAc2];
+@mGC_top_n68_442 = [grmEE grmOO grmEE_Bindi grmOO_Bindi];
+@mGC_top_n78_442 = [grmAU grBindi];
+@mGC_top_n79_442 = [grTippi grAddak grAdakbindi grmAU_Bindi];
+@mGC_top_n80_442 = [grmAI grmAI_Bindi];
+
+markClass @mGC_bottom_n186_0 <anchor -186 0> @MC_bottom;
+markClass @mGC_bottom_n79_0 <anchor -79 0> @MC_bottom;
+markClass @mGC_top_n68_442 <anchor -68 442> @MC_top;
+markClass @mGC_top_n78_442 <anchor -78 442> @MC_top;
+markClass @mGC_top_n79_442 <anchor -79 442> @MC_top;
+markClass @mGC_top_n80_442 <anchor -80 442> @MC_top;
+markClass grNukta <anchor -217 0> @MC_bottom;
+markClass grmU <anchor -185 0> @MC_bottom;
+markClass grmUU <anchor -184 0> @MC_bottom;
+

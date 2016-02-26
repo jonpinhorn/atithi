@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grKHA" format="1">
+  <advance width="461"/>
+  <unicode hex="0A16"/>
+  <outline>
+    <contour>
+      <point x="324" y="235" type="line"/>
+      <point x="324" y="318" type="line"/>
+      <point x="149" y="318" type="line"/>
+      <point x="149" y="235" type="line"/>
+    </contour>
+    <component base="grPA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

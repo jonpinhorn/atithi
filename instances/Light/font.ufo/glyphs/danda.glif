@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="danda" format="1">
+  <advance width="247"/>
+  <unicode hex="0964"/>
+  <outline>
+    <contour>
+      <point x="104" y="-9" type="line"/>
+      <point x="143" y="-9" type="line"/>
+      <point x="143" y="462" type="line"/>
+      <point x="104" y="462" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

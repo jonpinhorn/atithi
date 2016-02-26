@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ITF" format="1">
+  <advance width="1617"/>
+  <outline>
+    <contour>
+      <point x="1289" y="0" type="line"/>
+      <point x="1289" y="674" type="line"/>
+      <point x="1081" y="674" type="line"/>
+      <point x="1081" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="0" type="line"/>
+      <point x="285" y="674" type="line"/>
+      <point x="77" y="674" type="line"/>
+      <point x="77" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="477" type="line"/>
+      <point x="536" y="674" type="line"/>
+      <point x="328" y="674" type="line"/>
+      <point x="328" y="477" type="line"/>
+    </contour>
+    <contour>
+      <point x="787" y="0" type="line"/>
+      <point x="787" y="674" type="line"/>
+      <point x="579" y="674" type="line"/>
+      <point x="579" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1038" y="477" type="line"/>
+      <point x="1038" y="674" type="line"/>
+      <point x="830" y="674" type="line"/>
+      <point x="830" y="477" type="line"/>
+    </contour>
+    <contour>
+      <point x="1540" y="238" type="line"/>
+      <point x="1540" y="435" type="line"/>
+      <point x="1331" y="435" type="line"/>
+      <point x="1331" y="238" type="line"/>
+    </contour>
+    <contour>
+      <point x="1540" y="477" type="line"/>
+      <point x="1540" y="674" type="line"/>
+      <point x="1331" y="674" type="line"/>
+      <point x="1331" y="477" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

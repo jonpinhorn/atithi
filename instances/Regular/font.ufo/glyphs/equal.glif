@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal" format="1">
+  <advance width="562"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="508" y="404" type="line"/>
+      <point x="508" y="485" type="line"/>
+      <point x="54" y="485" type="line"/>
+      <point x="54" y="404" type="line"/>
+    </contour>
+    <contour>
+      <point x="508" y="195" type="line"/>
+      <point x="508" y="277" type="line"/>
+      <point x="54" y="277" type="line"/>
+      <point x="54" y="195" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grAI" format="1">
+  <advance width="569"/>
+  <unicode hex="0A10"/>
+  <outline>
+    <component base="grA"/>
+    <component base="grmAI" xOffset="565" yOffset="-7"/>
+    <contour>
+      <point x="622" y="447" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

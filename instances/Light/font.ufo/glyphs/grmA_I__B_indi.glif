@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grmAI_Bindi" format="1">
+  <outline>
+    <component base="grmAI"/>
+    <component base="grBindi" xOffset="51"/>
+    <contour>
+      <point x="-75" y="441" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

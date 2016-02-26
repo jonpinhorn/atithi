@@ -1,0 +1,22 @@
+# Created: Fri Feb 26 17:54:52 2016
+# PS Name: Atithi-Medium
+# MM Inst: None
+# exported from noApp
+
+@mGC_bottom_n186_0 = [grmU grmUU.alt grmU.alt];
+@mGC_bottom_n84_0 = [grVirama grUdaat];
+@mGC_bottom_n85_0 = [grYakash grVAc2 grHAc2];
+@mGC_top_n69_444 = [grmEE grmEE_Bindi];
+@mGC_top_n70_444 = [grmOO grmOO_Bindi];
+@mGC_top_n84_444 = [grmAI grmAU grBindi grTippi grAddak grAdakbindi grmAI_Bindi];
+
+markClass @mGC_bottom_n186_0 <anchor -186 0> @MC_bottom;
+markClass @mGC_bottom_n84_0 <anchor -84 0> @MC_bottom;
+markClass @mGC_bottom_n85_0 <anchor -85 0> @MC_bottom;
+markClass @mGC_top_n69_444 <anchor -69 444> @MC_top;
+markClass @mGC_top_n70_444 <anchor -70 444> @MC_top;
+markClass @mGC_top_n84_444 <anchor -84 444> @MC_top;
+markClass grNukta <anchor -225 0> @MC_bottom;
+markClass grmAU_Bindi <anchor -85 444> @MC_top;
+markClass grmUU <anchor -184 0> @MC_bottom;
+

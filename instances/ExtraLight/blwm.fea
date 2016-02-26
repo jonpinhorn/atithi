@@ -1,0 +1,32 @@
+# Created: Fri Feb 26 17:54:50 2016
+# PS Name: Atithi-ExtraLight
+# MM Inst: None
+# exported from noApp
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_bottom {
+	@bGC_grCA_bottom = [grCA grNNA grDA grLxA];
+	@bGC_grDDA_bottom = [grDDA grTA];
+	@bGC_grNGA_bottom = [grNGA grPHA];
+	@bGC_grNYA_bottom = [grNYA grVA];
+	@bGC_grTTA_bottom = [grTTA grBHA grPHxA];
+	@bGC_grTTHA_bottom = [grTTHA grUra];
+	pos base @bGC_grCA_bottom <anchor 232 0> mark @MC_bottom;
+	pos base @bGC_grDDA_bottom <anchor 210 0> mark @MC_bottom;
+	pos base @bGC_grNGA_bottom <anchor 222 0> mark @MC_bottom;
+	pos base @bGC_grNYA_bottom <anchor 206 0> mark @MC_bottom;
+	pos base @bGC_grTTA_bottom <anchor 218 0> mark @MC_bottom;
+	pos base @bGC_grTTHA_bottom <anchor 236 0> mark @MC_bottom;
+	pos base grCHA <anchor 217 0> mark @MC_bottom;
+	pos base grDDHA <anchor 239 0> mark @MC_bottom;
+	pos base grHA <anchor 167 0> mark @MC_bottom;
+	pos base grJHA <anchor 187 0> mark @MC_bottom;
+	pos base grKA <anchor 225 0> mark @MC_bottom;
+	pos base grLA <anchor 235 0> mark @MC_bottom;
+	pos base grNA <anchor 229 0> mark @MC_bottom;
+	pos base grRA <anchor 165 0> mark @MC_bottom;
+	pos base grRRA <anchor 219 0> mark @MC_bottom;
+} MARK_BASE_bottom;
+
+

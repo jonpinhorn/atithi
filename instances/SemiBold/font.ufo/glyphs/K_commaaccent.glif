@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="1">
+  <advance width="639"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="620" y="0" type="line"/>
+      <point x="373" y="336" type="line"/>
+      <point x="213" y="334" type="line"/>
+      <point x="449" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="-257" type="line"/>
+      <point x="393" y="-51" type="line"/>
+      <point x="257" y="-51" type="line"/>
+      <point x="183" y="-257" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="0" type="line"/>
+      <point x="204" y="674" type="line"/>
+      <point x="68" y="674" type="line"/>
+      <point x="68" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="336" type="line"/>
+      <point x="603" y="674" type="line"/>
+      <point x="441" y="674" type="line"/>
+      <point x="213" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

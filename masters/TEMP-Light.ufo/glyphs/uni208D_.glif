@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni208D" format="1">
+  <advance width="166"/>
+  <unicode hex="208D"/>
+  <note>
+    uni208D
+  </note>
+  <outline>
+    <contour>
+      <point x="112" y="-143" type="curve"/>
+      <point x="112" y="-123" type="line"/>
+      <point x="78" y="-123" type="line"/>
+      <point x="78" y="157" type="line"/>
+      <point x="112" y="157" type="line"/>
+      <point x="112" y="176" type="line"/>
+      <point x="105" y="177"/>
+      <point x="100" y="177"/>
+      <point x="96" y="177" type="curve"/>
+      <point x="80" y="172"/>
+      <point x="62" y="158"/>
+      <point x="58" y="148" type="curve"/>
+      <point x="58" y="-115" type="line"/>
+      <point x="62" y="-125"/>
+      <point x="80" y="-138"/>
+      <point x="96" y="-144" type="curve"/>
+      <point x="100" y="-144"/>
+      <point x="105" y="-144"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grYakash" format="1">
+  <unicode hex="0A75"/>
+  <outline>
+    <contour>
+      <point x="102" y="-226" type="curve"/>
+      <point x="76" y="-159" type="line"/>
+      <point x="38" y="-176"/>
+      <point x="8" y="-186"/>
+      <point x="-24" y="-189" type="curve"/>
+      <point x="-36" y="-171"/>
+      <point x="-41" y="-144"/>
+      <point x="-41" y="-101" type="curve" smooth="yes"/>
+      <point x="-41" y="-49" type="line"/>
+      <point x="-149" y="-49" type="line"/>
+      <point x="-149" y="-109" type="line" smooth="yes"/>
+      <point x="-149" y="-202"/>
+      <point x="-75" y="-249"/>
+      <point x="-2" y="-249" type="curve" smooth="yes"/>
+      <point x="37" y="-249"/>
+      <point x="69" y="-241"/>
+    </contour>
+    <contour>
+      <point x="-95" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-26 16:05:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

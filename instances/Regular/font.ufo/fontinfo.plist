@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>713</integer>
+	<key>capHeight</key>
+	<integer>609</integer>
+	<key>descender</key>
+	<integer>-286</integer>
+	<key>familyName</key>
+	<string>Atithi</string>
+	<key>openTypeHeadCreated</key>
+	<string>2016/02/08 17:46:10</string>
+	<key>openTypeNameDesigner</key>
+	<string>Jonny Pinhorn</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>www.jonnypinhorn.com</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>285</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-114</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>340</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Atithi-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
+	<key>postscriptWeightName</key>
+	<string>Light</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>0</integer>
+	<key>versionMinor</key>
+	<integer>1</integer>
+	<key>xHeight</key>
+	<integer>442</integer>
+</dict>
+</plist>

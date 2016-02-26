@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcommaaccent" format="1">
+  <advance width="243"/>
+  <unicode hex="013C"/>
+  <outline>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="169" y="707" type="line"/>
+      <point x="74" y="707" type="line"/>
+      <point x="74" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="-248" type="line"/>
+      <point x="174" y="-51" type="line"/>
+      <point x="68" y="-51" type="line"/>
+      <point x="-13" y="-248" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

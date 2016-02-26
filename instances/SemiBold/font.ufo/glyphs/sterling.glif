@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="1">
+  <advance width="535"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="501" y="0" type="line"/>
+      <point x="501" y="109" type="line"/>
+      <point x="201" y="109" type="line"/>
+      <point x="249" y="139"/>
+      <point x="267" y="184"/>
+      <point x="267" y="250" type="curve"/>
+      <point x="267" y="304"/>
+      <point x="253" y="368"/>
+      <point x="253" y="424" type="curve"/>
+      <point x="253" y="504"/>
+      <point x="291" y="538"/>
+      <point x="365" y="538" type="curve" smooth="yes"/>
+      <point x="402" y="538"/>
+      <point x="438" y="527"/>
+      <point x="468" y="507" type="curve"/>
+      <point x="468" y="629" type="line"/>
+      <point x="437" y="648"/>
+      <point x="392" y="660"/>
+      <point x="338" y="660" type="curve" smooth="yes"/>
+      <point x="187" y="660"/>
+      <point x="112" y="571"/>
+      <point x="112" y="427" type="curve"/>
+      <point x="112" y="374"/>
+      <point x="129" y="308"/>
+      <point x="129" y="251" type="curve"/>
+      <point x="129" y="186"/>
+      <point x="112" y="139"/>
+      <point x="49" y="107" type="curve"/>
+      <point x="49" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="273" type="line"/>
+      <point x="426" y="368" type="line"/>
+      <point x="50" y="368" type="line"/>
+      <point x="50" y="273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+# Created: Fri Feb 26 17:54:51 2016
+# PS Name: Atithi-Light
+# MM Inst: None
+# exported from noApp
+
+@mGC_bottom_n186_0 = [grmUU.alt grmU.alt];
+@mGC_bottom_n74_0 = [grVirama grUdaat grYakash grVAc2 grHAc2];
+@mGC_top_n67_441 = [grmEE grmOO grmEE_Bindi grmOO_Bindi];
+@mGC_top_n73_441 = [grmAU grBindi grTippi grAddak grAdakbindi];
+@mGC_top_n75_441 = [grmAI grmAI_Bindi];
+
+markClass @mGC_bottom_n186_0 <anchor -186 0> @MC_bottom;
+markClass @mGC_bottom_n74_0 <anchor -74 0> @MC_bottom;
+markClass @mGC_top_n67_441 <anchor -67 441> @MC_top;
+markClass @mGC_top_n73_441 <anchor -73 441> @MC_top;
+markClass @mGC_top_n75_441 <anchor -75 441> @MC_top;
+markClass grNukta <anchor -210 0> @MC_bottom;
+markClass grmAU_Bindi <anchor -74 441> @MC_top;
+markClass grmU <anchor -183 0> @MC_bottom;
+markClass grmUU <anchor -185 0> @MC_bottom;
+
